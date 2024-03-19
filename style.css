@@ -1,0 +1,30 @@
+body{
+    background-color:darkslategray;
+    margin-right: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: ghostwhite;
+}
+
+img{
+    width: 300px;
+}
+pre{
+    margin-right: 50%;
+    text-wrap: auto;
+}
+fieldset{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 20px;
+    background-color: black;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+  } 
+  .container{
+    padding-top: 100px;;
+    font-style: italic;
+    padding: 0;
+  }
